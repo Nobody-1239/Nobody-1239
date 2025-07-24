@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-’m a backend developer focused on designing and implementing modern software solutions using .NET technologies.
+I'm a backend developer focused on designing and implementing modern software solutions using .NET technologies.
 I'm committed to clean code principles, solid architectural patterns (such as Clean Architecture), and adhering to software engineering best practices.
 
 I believe good code is not just about working correctly — it should also be maintainable, scalable, and well-documented.
