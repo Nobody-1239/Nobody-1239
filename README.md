@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abolfazl</h1>
-<h3 align="center">Living on the edge of 255... next step is overflow 🚀</h3>
+<h1 align="center">Hi, I'm Abolfazl</h1>
+<h3 align="center">Living on the edge of 255... next step is overflow</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation" />
@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I'm a backend developer focused on designing and implementing modern software solutions using .NET technologies.
 I'm committed to clean code principles, solid architectural patterns (such as Clean Architecture), and adhering to software engineering best practices.
@@ -19,10 +19,10 @@ Throughout my journey, I continuously seek technical growth, stay up-to-date wit
 
 ---
 
-- 🌱 I’m currently learning **ASP.NET Core** to build modern web applications  
-- 🛠️ Working on real-world desktop & web applications in **C# / .NET**   
-- 📫 Reach me at: **abolfazl.shkofthe.1239@gmail.com**  
-- 🧑‍💻 GitHub: [Nobody-1239](https://github.com/Nobody-1239)
+- I’m currently learning **ASP.NET Core** to build modern web applications  
+- Working on real-world desktop & web applications in **C# / .NET**   
+- Reach me at: **abolfazl.shkofthe.1239@gmail.com**  
+- GitHub: [Nobody-1239](https://github.com/Nobody-1239)
 
 ---
 
